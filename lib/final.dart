@@ -54,7 +54,7 @@ class finalPage extends StatelessWidget {
 
                         Padding(
                           padding: const EdgeInsets.only(top:32.0,right: 45.0,left:45.0),
-                          child: Text(" O ut of the abstraction of nature comes its productivity Out of the abstraction of nature comes its productivity, and the production of a surplus over and above the necessitiesof survival. Out of this expanding surplus over necessity comes an expanding capacity to hack, again and again, pro-",
+                          child: Text(body,
                             textAlign: TextAlign.center, style:
                             TextStyle(color: Colors.brown, fontSize: 25, fontWeight: FontWeight.bold),),
                         ),
